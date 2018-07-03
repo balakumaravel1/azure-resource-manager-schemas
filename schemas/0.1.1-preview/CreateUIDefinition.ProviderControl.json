@@ -638,6 +638,9 @@
             },
             "hideExisting": {
               "type": [ "boolean", "string" ]
+            },
+            "sku": {
+              "type": "string"
             }
           },
           "additionalProperties": false
